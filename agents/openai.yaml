@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT制作"
+  short_description: "通用PPT制作与修改：梳理内容、统一字体层级、优化视觉排版并交付可编辑文件"
+  default_prompt: "请用 $ppt-craft，根据我提供的内容和要求制作或修改PPT，理清逻辑、优化排版，交付可编辑文件。"
